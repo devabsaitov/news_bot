@@ -1,2 +1,2 @@
 print(1)
-print('Salommmm')
+print('Salommmmm')
